@@ -1,5 +1,5 @@
-Lending Club Case Study
-Problem Statement
+**Lending Club Case Study**
+**Problem Statement**
 You are working for a consumer finance company that specializes in lending various types of loans to urban customers. When a loan application is received, the company must decide whether to approve the loan based on the applicant’s profile. There are two types of risks associated with the bank's decision:
 
 Business Loss: If the applicant is likely to repay the loan but is denied, the company loses potential business.
