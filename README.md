@@ -28,5 +28,5 @@ The following files are included as part of this solution:
 
 1. **README.md**: This file contains the problem description.
 2. **Lending_Club_shantnu_171024.ipynb**: An IPython notebook for performing Exploratory Data Analysis (EDA).
-3. **Shantnu_Singh.pdf**: A document detailing the analysis and conclusions drawn from the EDA.
+3. **Lending_Club_Case_Study_Shantnu.pdf**: A document detailing the analysis and conclusions drawn from the EDA.
 4. **Loan.csv**: The dataset used for analysis.
